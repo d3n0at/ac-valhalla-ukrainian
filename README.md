@@ -34,7 +34,7 @@
 ## Як зроблено
 Переклад виконано за допомогою ШІ.  
 Оркестрування, перевірки й збірка: Claude Opus 5.5;  
-перший переклад: Qwen3.8-Flash-Next (локально) і Gemini 4 Hydrogen;  
+перший переклад: Qwen3.8-Flash-Next 125B MoE, IQ3_S (локально) і Gemini 4 Hydrogen;  
 вичитка: Gemini 4 Hydrogen і Gemini 4 Argon;  
 перевірка в грі: d3n0at.
 
